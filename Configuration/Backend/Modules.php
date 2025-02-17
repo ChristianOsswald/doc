@@ -2,7 +2,6 @@
 
 use GeorgRinger\Doc\Controller\DocModuleController;
 
-
 return [
     'doc' => [
         'parent' => 'help',
